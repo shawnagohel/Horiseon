@@ -24,3 +24,13 @@ THEN I find a concise, descriptive title
 ## PROJECT URL:
 https://shawnagohel.github.io/Horiseon/index.html
 
+
+## Screenshots :
+https://shawnagohel.github.io/Horiseon/Horiseon_Screenshot_1.png  
+
+https://shawnagohel.github.io/Horiseon/Horiseon_Screenshot_2.png
+
+https://shawnagohel.github.io/Horiseon/Horiseon_Screenshot_3.png
+
+
+
